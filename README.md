@@ -1,5 +1,5 @@
 # Python-Programming-Masterclass
-Udemy_Learn Python Programming Masterclass er et 72,5 timers kurs  i Python fra Udemy. Jeg har foreløpig vært gjennom 280 videoer av 572 totalt. Kurset dekker forskjellige tema som bla.:
+Udemy_Learn Python Programming Masterclass er et 72,5 timers kurs  i Python fra Udemy. Jeg har foreløpig gjennom disse temaene:
 - lister
 - tuples
 - funksjoner
